@@ -1,5 +1,6 @@
 ---
 title: "Workshop code"
+author: "Claire Kelling"
 output:
   pdf_document: default
   html_document: default
@@ -15,8 +16,8 @@ output:
 
 ##  Your turn 1
 
-- Open the `example.Rmd` file in your folder and make a few edits in this new file (e.g., change the title)
 
+- Open the `example.Rmd` file in your folder and make a few edits in this new file (e.g., change the title)
 - Commit the change, add an informative message
 
 - Push the changes to GitHub
